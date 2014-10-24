@@ -4,7 +4,7 @@ PROMPT="%{$fg[red]%}%n%{$reset_color%}@%{$fg[blue]%}%m %{$fg_no_bold[yellow]%}%1
 
 
 RPROMPT='$(git_prompt_info)' 
-%{$reset_color%$
+
 
 
 
