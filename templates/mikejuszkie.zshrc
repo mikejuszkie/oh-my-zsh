@@ -85,11 +85,3 @@ source $ZSH/oh-my-zsh.sh
 
 #archey
 screenfetch
-
-alias todo="cat .todo"
-alias projsh="source /h/mjuszkie/0f/projectz.sh"
-sh_con=/h/mjuszkie/.sh-control
-
-
-#cat .todo
-unset SSH_ASKPASS
