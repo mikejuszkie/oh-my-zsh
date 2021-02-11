@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # install in /etc/zsh/zshrc or your personal .zshrc
 
 # gc
@@ -161,3 +162,8 @@ compdef __go_tool_complete go
 
 # aliases
 alias gfa='go fmt . ./...'
+=======
+print -P "%F{yellow}The 'go' plugin is deprecated. Use the '%Ugolang%u' plugin instead.%f"
+
+source "$ZSH/plugins/golang/golang.plugin.zsh"
+>>>>>>> f21e646ce6c09198f7f625c597f08af49551fdb0
